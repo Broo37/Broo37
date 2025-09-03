@@ -36,7 +36,7 @@
 
 ---
 
-![Strawberry Milk](https://em-content.zobj.net/source/microsoft-teams/363/strawberry_1f353.png) ![Laptop](https://em-content.zobj.net/source/microsoft-teams/363/laptop_1f4bb.png) ![Game Controller](https://em-content.zobj.net/source/microsoft-teams/363/video-game_1f3ae.png) ![Books](https://em-content.zobj.net/source/microsoft-teams/363/books_1f4da.png) ![Japan Flag](https://em-content.zobj.net/source/microsoft-teams/363/japan_1f1ef-1f1f5.png)
+![Strawberry Milk](https://em-content.zobj.net/source/microsoft-teams/363/strawberry_1f353.png) ![Laptop](https://em-content.zobj.net/source/microsoft-teams/363/laptop_1f4bb.png) ![Game Controller](https://em-content.zobj.net/source/microsoft-teams/363/video-game_1f3ae.png) ![Books](https://em-content.zobj.net/source/microsoft-teams/363/books_1f4da.png) 🇯🇵 ![Sparkles](https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png) ![Robot](https://em-content.zobj.net/source/microsoft-teams/363/robot_1f916.png)
 
 ---
 
