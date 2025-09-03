@@ -83,9 +83,11 @@ If you ever want to chat tech, recommend a FOSS tool, or share a productivity ha
 
 ---
 
-## 📫 Let’s Connect!
+## 📫 Connect with Me!
 
-<!-- Add your social links here if you want! LinkedIn, Twitter, website, etc. -->
+- ✉️ **Email:** [hexisuperion@gmail.com](mailto:hexisuperion@gmail.com)
+- 🐦 **Twitter:** [@iwankurin](https://twitter.com/iwankurin)
+- 💼 **LinkedIn:** [Iwan Kurniawan](https://www.linkedin.com/in/iwan-kurniawan-67b917a6/)
 
 ---
 
