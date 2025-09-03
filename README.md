@@ -22,7 +22,7 @@
          ~~                       \|___|                                                            
                                                                                                     
 ```
-### 🎮 Backend Sorcerer | 🍓 Strawberry Milk Lover | 👾 RTS Bot Battler | 📚 Manga Explorer | 🇯🇵 Japanese Culture Fan
+### 🎮 Backend Sorcerer | 🍓 Strawberry Milk Enjoyer | 👾 RTS Bot Battler | 📚 Manga/Anime Explorer | 🇯🇵 Japanese Culture Fan
 
 ---
 
