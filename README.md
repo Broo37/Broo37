@@ -36,7 +36,7 @@
 
 ---
 
-![Strawberry Milk](https://em-content.zobj.net/source/microsoft-teams/363/strawberry_1f353.png) ![Laptop](https://em-content.zobj.net/source/microsoft-teams/363/laptop_1f4bb.png) ![Game Controller](https://em-content.zobj.net/source/microsoft-teams/363/video-game_1f3ae.png) ![Books](https://em-content.zobj.net/source/microsoft-teams/363/books_1f4da.png) 🇯🇵 ![Sparkles](https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png) ![Robot](https://em-content.zobj.net/source/microsoft-teams/363/robot_1f916.png)
+![Strawberry Milk](https://em-content.zobj.net/source/microsoft-teams/363/strawberry_1f353.png) ![Laptop](https://em-content.zobj.net/source/microsoft-teams/363/laptop_1f4bb.png) ![Game Controller](https://em-content.zobj.net/source/microsoft-teams/363/video-game_1f3ae.png) ![Books](https://em-content.zobj.net/source/microsoft-teams/363/books_1f4da.png) ![Sparkles](https://em-content.zobj.net/source/microsoft-teams/363/sparkles_2728.png) ![Robot](https://em-content.zobj.net/source/microsoft-teams/363/robot_1f916.png)
 
 ---
 
@@ -91,7 +91,7 @@ If you ever want to chat tech, recommend a FOSS tool, or share a productivity ha
 
 ---
 
-> *“i'm a curious person and like to learn about my tech stack, loved to trying foss program in github, and loved productivity tool, i like rts gaming and more likely playing versus bots rather than real player.”*
+> *“i'm a curious person and like to learn about my tech stack, loved to trying foss program, and loved productivity tool, i like rts gaming and more likely playing versus bots rather than real player.”*
 
 ---
 
