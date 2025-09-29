@@ -91,8 +91,4 @@ If you ever want to chat tech, recommend a FOSS tool, or share a productivity ha
 
 ---
 
-> *“i'm a curious person and like to learn about my tech stack, loved to trying foss program, and loved productivity tool, i like rts gaming and more likely playing versus bots rather than real player.”*
-
----
-
 ![Broo37's GitHub stats](https://github-readme-stats.vercel.app/api?username=Broo37&show_icons=true&theme=radical)
